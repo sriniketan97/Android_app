@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GadgetApp</string>
+
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">पEnter usernameं</string>
+    <string name="enter_repassword">Retype Passwordें</string>
+    <string name="reg">Retype Passwordें</string>
+    <string name="sign">Retype Passwordें</string>
+
+</resources>

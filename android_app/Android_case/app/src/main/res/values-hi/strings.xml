@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gadget Appं</string>
+    <string name="enter_username">उपयोगकर्ता नाम दर्ज करें</string>
+    <string name="enter_password">पास वर्ड दर्ज करें</string>
+    <string name="enter_repassword">पपासवर्ड फिर से लिखेंें</string>
+    <string name="reg">रजिस्टर करेंें</string>
+    <string name="sign">मौजूदा उपयोगकर्ता सिंगिन पर जाएं</string>
+
+</resources>
